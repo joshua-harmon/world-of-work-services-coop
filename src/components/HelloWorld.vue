@@ -11,12 +11,10 @@
     <h2>Entry level employment</h2>
     <h2>Merit advancement</h2>
     <h2>Professional positions based upon experience and education</h2>
-    <h2>Self-employment by becomming a working COOP member</h2>
-    <h2>CALL (520) 300-6340</h2>
-    <h2>nk@World-of-work-services-coop.com</h2>
-    <h3>Josh Harmon</h3>
-    <h3>141 S. 6th Ave, Unit 42</h3>
-    <h3>Tucson, Az 85702</h3>
+    <h2>Self-employment by becoming a working COOP member</h2>
+    <h3>CALL (520) 300-6340<br>nk@World-of-work-services-coop.com<br>
+    <br>Josh Harmon<br>141 S. 6th Ave, Unit 42<br>Tucson, Az 85702</h3>
+    </p>
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" size="50" /></label>   
