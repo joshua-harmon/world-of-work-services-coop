@@ -38,7 +38,7 @@
 </template>
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Helloworld',
   props: {
     msg: String
   }
@@ -47,7 +47,7 @@ export default {
 </template>
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Helloworld',
   props: {
     msg: String
   }
