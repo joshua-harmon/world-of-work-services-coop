@@ -14,8 +14,8 @@
     <h2>Self-employment by becoming a working COOP member</h2>
     </p>
     <p>
-    <h3>CALL (520) 300-6340<br>nk@World-of-work-services-coop.com</h3>
-    <h3>Josh Harmon<br>141 S. 6th Ave, Unit 42<br>Tucson, Az 85702</h3>
+    <h3>CALL (520) 300-6340, nk@World-of-work-services-coop.com</h3>
+    <h3>Josh Harmon, 141 S. 6th Ave, Unit 42, Tucson, Az 85702</h3>
     </p>
 <form name="contact" method="POST" data-netlify="true">
   <p>
