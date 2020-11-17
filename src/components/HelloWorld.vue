@@ -11,6 +11,12 @@
     <h2>Merit advancement</h2>
     <h2>Professional positions based upon experience and education</h2>
     <h2>Self-employment by becoming a working COOP member</h2>
+    <h2>CALL (520) 300-6340</h2>
+    <h2>nk@World-of-work-services-coop.com</h2>
+    <h3>Josh Harmon</h3>
+    <h3>141 S. 6th Ave, Unit 42</h3>
+    <h3>Tucson, Az 85702</h3>
+
     <h3>Essential Links</h3>
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
