@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
     <h1 style = "color:blue; text-align:center">WORLD OF WORK SERVICES - COOP</h1>
     <h2>Working with employment opportunities in:</h2>
     <h2>Sales</h2>  
@@ -12,7 +11,6 @@
     <h2>Merit advancement</h2>
     <h2>Professional positions based upon experience and education</h2>
     <h2>Self-employment by becoming a working COOP member</h2>
-    </p>
     <h3>Essential Links</h3>
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
